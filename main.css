@@ -1,3 +1,13 @@
+
+header
+{
+  margin: 0 1.5% 24px 1.5%;
+    background-color: blue;
+    color: black;
+    background: #2db34a;
+
+}
+header,
 section {
     background: #2db34a;
    float: left;
@@ -6,3 +16,10 @@ section {
     text-align: center
 }
 #kid{background-color: crimson;}
+code {
+  border-radius: 6px;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
+}
